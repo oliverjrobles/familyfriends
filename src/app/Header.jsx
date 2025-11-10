@@ -10,7 +10,7 @@ export default function Header({ sticky = false }) {
 
         <button
           aria-label="Notifikationer"
-          className="relative h-9 w-9 rounded-full bg-white border border-gray-200 shadow-sm flex items-center justify-center active:scale-95 transition"
+          className="relative h-9 w-9 rounded-full bg-white border border-gray-200 shadow-sm flex items-center justify-center active:scale-90 transition"
         >
           {/* Bell icon (inline SVG) */}
           <svg
