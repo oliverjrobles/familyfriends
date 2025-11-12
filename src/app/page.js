@@ -10,6 +10,7 @@ export default function Page() {
   const [pets, setPets] = useState([]);
   const [loading, setLoading] = useState(true);
 
+  // Hent 6 “pets” fra DummyJSON
   useEffect(() => {
     async function load() {
       try {
