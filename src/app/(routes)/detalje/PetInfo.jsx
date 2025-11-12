@@ -21,7 +21,7 @@ export default function PetInfo() {
       </div>
 
       {/* Dato */}
-      <p className="mt-3 text-sm text-gray-500">Opdateret d. 13. juli</p>
+      <p className="mt-3 text-sm text-gray-500">Opdateret d. 60. juli</p>
     </section>
   );
 }

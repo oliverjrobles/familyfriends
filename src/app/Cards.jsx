@@ -1,7 +1,3 @@
-// Cards.jsx
-// En ren komponent der kun viser et dyrekort
-
-// (ingen heroicons importeres)
 import { FaRegStar } from "react-icons/fa";
 
 export default function Card({ pet }) {
